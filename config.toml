@@ -1,5 +1,9 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My PORTFOLIO Site"
+baseURL = "https://HataKyoka4242.github.io/my.portfolio/"
+languageCode = "ja"
+title = "My Portfolio Site"
+theme = "hugo-theme-stack"
 publishDir = "docs"
 canonifyurls = true
+tag = "tags"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
