@@ -7,3 +7,4 @@ canonifyurls = true
 tag = "tags"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+disqusShortname = "your-disqus-short-name"
